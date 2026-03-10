@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://miradourodalua.xyz/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+ <url>
+    <loc>https://miradourodalua.xyz/hero.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://miradourodalua.xyz/about.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://miradourodalua.xyz/features.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://miradourodalua.xyz/como-chegar.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://miradourodalua.xyz/galeria.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://miradourodalua.xyz/contacto.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+
+</urlset>
